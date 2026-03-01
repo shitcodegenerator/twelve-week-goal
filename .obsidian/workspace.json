@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "12週+作品"
             }
+          },
+          {
+            "id": "7d324db98f623014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《12週做完一年工作大方向》.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《12週做完一年工作大方向》"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6def67242789f93",
@@ -40,8 +55,23 @@
               "icon": "lucide-file",
               "title": "初步12周"
             }
+          },
+          {
+            "id": "02fef5a0c675186e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日執行細則.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "每日執行細則"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12週+作品.md",
+                "file": "每日執行細則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "12週+作品 的反向連結"
+              "title": "每日執行細則 的反向連結"
             }
           },
           {
@@ -133,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12週+作品.md",
+                "file": "每日執行細則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "12週+作品 的對外連結"
+              "title": "每日執行細則 的對外連結"
             }
           },
           {
@@ -176,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12週+作品.md",
+                "file": "每日執行細則.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12週+作品 的大綱"
+              "title": "每日執行細則 的大綱"
             }
           }
         ]
@@ -204,9 +234,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c0bbd7f8d3c317f",
+  "active": "02fef5a0c675186e",
   "lastOpenFiles": [
-    "初步12周.md",
-    "12週+作品.md"
+    "《12週做完一年工作大方向》.md",
+    "每日執行細則.md",
+    "12週+作品.md",
+    "初步12周.md"
   ]
 }
