@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "初步12周.md",
+                "file": "WEEKLY_PLAN/WEEK_1/W1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初步12周"
+              "title": "W1"
             }
           },
           {
@@ -69,6 +69,20 @@
               },
               "icon": "lucide-file",
               "title": "每日執行細則"
+            }
+          },
+          {
+            "id": "f9498e4913e5c9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12週+作品.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12週+作品"
             }
           }
         ]
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12週+作品.md",
+                "file": "WEEKLY_PLAN/WEEK_1/W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "12週+作品 的反向連結"
+              "title": "W1 的反向連結"
             }
           },
           {
@@ -163,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12週+作品.md",
+                "file": "WEEKLY_PLAN/WEEK_1/W1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "12週+作品 的對外連結"
+              "title": "W1 的對外連結"
             }
           },
           {
@@ -206,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12週+作品.md",
+                "file": "WEEKLY_PLAN/WEEK_1/W1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12週+作品 的大綱"
+              "title": "W1 的大綱"
             }
           }
         ]
@@ -234,11 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c0bbd7f8d3c317f",
+  "active": "7b780d10a277c692",
   "lastOpenFiles": [
-    "初步12周.md",
     "12週+作品.md",
+    "WEEKLY_PLAN/WEEK_1/W1.md",
+    "初步12周.md",
     "每日執行細則.md",
+    "WEEKLY_PLAN/WEEK_1",
+    "WEEKLY_PLAN",
     "《12週做完一年工作大方向》.md"
   ]
 }
