@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec list 2>&1)",
+      "Bash(openspec list --specs 2>&1)"
+    ]
+  }
+}
